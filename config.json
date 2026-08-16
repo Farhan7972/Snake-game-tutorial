@@ -1,0 +1,6 @@
+{
+  "window_width": 1280,
+  "window_height": 720,
+  "min_detection_confidence": 0.7,
+  "min_tracking_confidence": 0.7
+}
